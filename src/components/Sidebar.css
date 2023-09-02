@@ -1,0 +1,16 @@
+/* Sidebar.css */
+.drawer {
+    width: 240px;
+    flex-shrink: 0;
+    background-color: blue;
+  }
+  
+  .drawerPaper {
+    width: 240px;
+  }
+  
+  /* .toolbar {
+   
+  
+  /* Define styles for ListItems, List, and other elements here */
+  
